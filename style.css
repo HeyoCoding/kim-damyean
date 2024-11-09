@@ -1,0 +1,58 @@
+footer p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.small_icon{
+    width: 85px;
+    height: auto;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(180deg, #985c2a, #dbdbdb)
+}
+
+
+.container {
+    text-align: center;
+    width: 300px;
+    background: rgb(180, 149, 110);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0.2);
+}
+
+.logo {
+    width: 80px;
+    margin-bottom: 0px;
+}
+
+.profile h1 {
+    font-size: 18px;
+    color:rgb(0, 0, 0)
+
+}
+
+.links .link {
+    display: block;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #ffffff;
+    padding: 15px 0;
+    margin: 10px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+.links .link:hover{
+   background-color: rgb(122, 15, 33);
+   box-shadow: #611111;
+}
+
